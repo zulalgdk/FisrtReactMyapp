@@ -6,7 +6,7 @@ import UpdateUser from "./forms/UpdateUser";
 import NotFound from "./pages/NotFound";
 import Contribute from "./pages/Contribute";
 import {BrowserRouter as Router,Route,Switch} from "react-router-dom";
-import './App.css';
+
 
 class App extends Component {
          
